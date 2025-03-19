@@ -1,0 +1,8 @@
+# MAC OS
+.DS_Store
+
+# Mammals
+/mammals/
+
+# Python Virtual Environment
+/Mammals_recog_VENV/
