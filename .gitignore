@@ -2,7 +2,7 @@
 .DS_Store
 
 # Mammals
-/mammals/
+# /mammals/
 
 # Python Virtual Environment
 /Mammals_recog_VENV/
