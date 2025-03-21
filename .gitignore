@@ -6,3 +6,6 @@
 
 # Python Virtual Environment
 /Mammals_recog_VENV/
+
+# Trained Models
+*.pth
